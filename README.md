@@ -14,7 +14,7 @@ El repositorio está organizado de la siguiente manera:
 ## 📫 Contacto
 
 - **GitHub:** [danbandaalmaraz](https://github.com/danbandaalmaraz)
-- **LinkedIn:** [Tu Perfil de LinkedIn] (Pon tu enlace aquí)
+- **LinkedIn:** [Dan Banda Almaraz] https://www.linkedin.com/in/dan-banda-almaraz-dev/
 
 ## 📝 Nota
 
